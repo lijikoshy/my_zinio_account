@@ -1,0 +1,55 @@
+/*                         Index.html                          */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    
+}
+.container{
+    width: 100%;
+    padding-left: 86px;
+}
+.left-section{
+    width: 50%;
+    
+    float: left;
+}
+.right-section{
+    width: 50%;
+    float: right;
+    margin-right: 1px;
+    margin-top: -289px;
+   
+}
+
+.pic{
+   height: 500px;
+   margin-top: -218px;
+}
+.first-name{
+    border-radius: 5px;
+    height: 35px;
+}
+
+.last-name{
+    margin-top: -35px;
+    border-radius: 5px;
+    height: 35px;
+    margin-left: 184px;
+}
+.name{
+    border-radius:5px;
+    height: 35px;
+}
+.text-box{
+    border-radius:5px;
+    height: 35px;
+    width: 354px;
+    
+}
