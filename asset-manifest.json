@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my_zinio_account/static/css/main.24cd1aa4.css",
+    "main.js": "/my_zinio_account/static/js/main.edb21739.js",
+    "static/js/453.dc5d6af5.chunk.js": "/my_zinio_account/static/js/453.dc5d6af5.chunk.js",
+    "static/media/pic.jpeg": "/my_zinio_account/static/media/pic.c64964e009fe521aa73e.jpeg",
+    "static/media/logo.jpeg": "/my_zinio_account/static/media/logo.c7f896b5cb9bf0206c73.jpeg",
+    "index.html": "/my_zinio_account/index.html",
+    "main.24cd1aa4.css.map": "/my_zinio_account/static/css/main.24cd1aa4.css.map",
+    "main.edb21739.js.map": "/my_zinio_account/static/js/main.edb21739.js.map",
+    "453.dc5d6af5.chunk.js.map": "/my_zinio_account/static/js/453.dc5d6af5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24cd1aa4.css",
+    "static/js/main.edb21739.js"
+  ]
+}
