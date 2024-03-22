@@ -2,6 +2,7 @@
   "name": "my_zinio_account",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://lijikoshy.github.io/my_zinio_account",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
